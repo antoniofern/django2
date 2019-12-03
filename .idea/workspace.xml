@@ -53,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575326262937</updated>
       <workItem from="1575326294101" duration="425000" />
-      <workItem from="1575327429601" duration="5267000" />
+      <workItem from="1575327429601" duration="7102000" />
     </task>
     <servers />
   </component>
@@ -74,13 +74,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="162" key="SettingsEditor" timestamp="1575327506005">
+    <state x="789" y="253" key="FileChooserDialogImpl" timestamp="1575334918100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575327506005" />
+    <state x="789" y="253" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575334918100" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1575334972133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575334972133" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575327435338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575327435338" />
+    <state x="1249" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575334728500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1249" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575334728500" />
   </component>
 </project>
