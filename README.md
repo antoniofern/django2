@@ -3,4 +3,4 @@ Django é um framework para aplicações web gratuito e de código aberto, escri
 
 - Model, a parte **M** do MTV. O modelo é a parte que interage com o banco de dados.
 - View, a parte **V** do MTV. Recebe os dados que o Model obteve na base de dados, faz o processamento matemático/lógico necessário e envia estes dados já formatados para o template.
-- Template. Nessa camada é onde irá ficar a interface do sistema. É através do template que o usuário interage com um site Django.
+- Template, a parte **T** do MTV. Nessa camada é onde irá ficar a interface do sistema. É através do template que o usuário interage com um site Django.
